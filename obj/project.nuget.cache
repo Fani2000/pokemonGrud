@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0uPyXfUIk6J+wgMnAMup5tPNgx+lb8szObsFoCm/9JgRZGnWCAeqMcYY6/oS0rakABhlV/bFZFlEpCrFHfugiw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Keorapetse Fani\\Documents\\projects\\PokemonApp\\PokemonApp\\PokemonApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keorapetse Fani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Keorapetse Fani\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Keorapetse Fani\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\Keorapetse Fani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Keorapetse Fani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Keorapetse Fani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Keorapetse Fani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
